@@ -1,0 +1,6 @@
+[submodule "inspire-sdk"]
+	path = inspire-sdk
+	url = git@github.com:NYU-robot-learning/inspire-sdk.git
+[submodule "kinova-calibration"]
+	path = kinova-calibration
+	url = git@github.com:NYU-robot-learning/kinova-calibration.git
